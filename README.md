@@ -1,0 +1,1 @@
+# MavenProjectUsing_HibernateWithMethod_HQL_Query
